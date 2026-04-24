@@ -2,7 +2,7 @@
 Hello everyone , welcome to my repo I want to test and fooster my skills on howto use GitHub and I'm trying to wirte and try as much as I can to be a sccessful Applied AI Engineer.
 
 ## What is this readme about 
-### I have built a document analyzer that use RAG to retrive information.
+I have built a document analyzer that use RAG to retrive information.
 The idea behind it is that you upload a PDF file and it would be summariezed , and you can ask the model any question from the file you have uploaded.I have used RAG because it's very good.
 
 ## Thank You 
